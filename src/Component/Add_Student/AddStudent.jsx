@@ -20,7 +20,7 @@ function AddStudent() {
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log("Form Data Submitted: ", data);
-    axios.post('https://ujjwalfullstackdev.github.io/json_api/StudentData.json', data)
+    axios.post('http://localhost:4000/StudentData', data)
       .then((res) => {
         toast.success('Data Added Successfully!');
         setData();  // Reset the form fields

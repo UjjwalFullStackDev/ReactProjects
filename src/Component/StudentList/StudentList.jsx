@@ -11,7 +11,7 @@ function StudentList() {
   const n = 3;
 
   useEffect(() => {
-    axios.get('https://ujjwalfullstackdev.github.io/json_api/StudentData.json')
+    axios.get('http://localhost:4000/StudentData')
       .then((res) => {
         setData(res.data);
         setPage(0);  // Reset page to 0 whenever new data is fetched
