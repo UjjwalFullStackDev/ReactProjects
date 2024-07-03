@@ -21,7 +21,7 @@ function Edit() {
   const _useNavigate=useNavigate()
 
   useEffect(() => {
-    axios.get('http://localhost:4000/StudentData/'+params.id)
+    axios.get('https://ujjwalfullstackdev.github.io/json_api/StudentData.json/'+params.id)
   .then((res) =>{
     setData(res.data)
     console.log(res.data);

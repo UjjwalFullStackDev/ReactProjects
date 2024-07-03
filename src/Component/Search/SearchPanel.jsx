@@ -14,7 +14,7 @@ export default function SearchPanel() {
     
       const searchData =(e)=>{
         const id=e.target.value;
-        axios.get('http://localhost:4000/StudentData/'+id)
+        axios.get('https://ujjwalfullstackdev.github.io/json_api/StudentData.json/'+id)
         .then((res)=>{
         //   console.log(res);
           setData(res.data)
