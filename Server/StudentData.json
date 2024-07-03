@@ -1,0 +1,117 @@
+{
+  "StudentData": [
+    {
+      "id": "9521",
+      "name": "Ujjwal Tyagi",
+      "email": "websitedt01@gmail.com",
+      "course": "Bsc",
+      "dob": "01/01/2001",
+      "phone": "09999864326",
+      "college": "IGNOU"
+    },
+    {
+      "id": "9166",
+      "name": "Ujjwal Tyagi",
+      "email": "websitedt01@gmail.com",
+      "course": "Bsc",
+      "dob": "01/01/2001",
+      "phone": "09999864326",
+      "college": "IGNOU"
+    },
+    {
+      "id": "3601",
+      "name": "Rakesh Kumar",
+      "email": "rakeshkumar@gmail.com",
+      "course": "BA",
+      "dob": "01/01/1990",
+      "phone": "9771489065",
+      "college": "Satyavati College"
+    },
+    {
+      "id": "25e0",
+      "initialData": {
+        "name": "",
+        "email": "",
+        "course": "",
+        "dob": "",
+        "phone": "",
+        "college": ""
+      },
+      "name": "Mukesh Kumar",
+      "email": "mukesh@gmail.com",
+      "course": "intermediate class",
+      "dob": "01/02/1890",
+      "phone": "8765432190",
+      "college": "Amba School"
+    },
+    {
+      "id": "868a",
+      "initialData": {
+        "name": "",
+        "email": "",
+        "course": "",
+        "dob": "",
+        "phone": "",
+        "college": ""
+      },
+      "name": "Manas Rabha",
+      "email": "manas@gmail.com",
+      "course": "MBA",
+      "dob": "01/01/1990",
+      "phone": "08765432190",
+      "college": "DTU"
+    },
+    {
+      "id": "b157",
+      "initialData": {
+        "name": "",
+        "email": "",
+        "course": "",
+        "dob": "",
+        "phone": "",
+        "college": ""
+      },
+      "name": "Aashish Kumar",
+      "email": "aashish@gmail.com",
+      "course": "Bsc",
+      "dob": "25/01/1995",
+      "phone": "09771489065",
+      "college": "IGNOU"
+    },
+    {
+      "id": "abfb",
+      "initialData": {
+        "name": "",
+        "email": "",
+        "course": "",
+        "dob": "",
+        "phone": "",
+        "college": ""
+      },
+      "name": "Ram Kumar",
+      "email": "ram@gmail.com",
+      "course": "B.Tech",
+      "dob": "12/01/1987",
+      "phone": "9876544321",
+      "college": "DU"
+    },
+    {
+      "id": "1d87",
+      "name": "abc",
+      "email": "info@aimym2022.com",
+      "phone": "09997736463",
+      "course": "Bsc",
+      "dob": "01/01/1990",
+      "college": "Satyavati College"
+    },
+    {
+      "id": "db43",
+      "name": "Manish",
+      "email": "manish@gmail.com",
+      "course": "12th",
+      "dob": "1995-04-02",
+      "phone": "09999999999",
+      "college": "SSNC"
+    }
+  ]
+}
