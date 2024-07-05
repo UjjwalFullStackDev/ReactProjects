@@ -13,8 +13,6 @@ function AddStudent() {
     college: ''
     });
 
-  const [msg, setMsg] = useState('');
-
   const _useNavigate=useNavigate()
 
   const handleSubmit = (e) => {

@@ -112,6 +112,24 @@
       "dob": "1995-04-02",
       "phone": "09999999999",
       "college": "SSNC"
+    },
+    {
+      "id": "8877",
+      "name": "Janvi Sethia",
+      "email": "janvi@gmail.com",
+      "course": "B.Tech",
+      "dob": "1999-04-02",
+      "phone": "09878965434",
+      "college": "Delhi University"
+    },
+    {
+      "id": "f7ab",
+      "name": "Vibhanshu Thakur",
+      "email": "vib@gmail.com",
+      "course": "MBA",
+      "dob": "2000-04-02",
+      "phone": "9093983293",
+      "college": "Saarthi"
     }
   ]
 }
